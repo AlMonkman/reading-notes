@@ -3,7 +3,7 @@ Reading notes for code fellows
 
 ![Coding Meme]{}
 
-#Learning how to use Markdown
+# Learning how to use Markdown
 
 1.Markdown is a "Syntax" that is more simple to write and can easily be translated into HTML through other programs.  
 2.Hashtags are called octothorps, they are used to designate headings.  
@@ -11,6 +11,6 @@ Reading notes for code fellows
 4.Each dash is a bullet.  
 5.
 
-##Working with Github
+## Working with Github
 
 1.
