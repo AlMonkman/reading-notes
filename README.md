@@ -5,5 +5,5 @@ Reading notes for code fellows
 
 #Learning how to use Markdown
 
-1.Hashtags are called octothorps, they are used to designate headings.
+1.Hashtags are called octothorps, they are used to designate headings.  
 2.
