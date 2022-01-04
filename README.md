@@ -1,7 +1,7 @@
 # Reading-notes
 Beginning notes for code fellows 102
 
-![Coding]{codingmeme.jfif}  
+[]{Codingmeme.jfif}  
 
 ## Learning how to use Markdown
 
