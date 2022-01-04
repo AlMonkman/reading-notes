@@ -1,7 +1,7 @@
 # Reading-notes
 Beginning notes for code fellows 102
 
-![Coding]{https://www.istockphoto.com/photo/a-woamn-using-and-typing-on-laptop-with-blank-white-desktop-screen-with-coffee-cup-gm1182792276-332279565}  
+![Coding]{codingmeme.jfif}  
 
 ## Learning how to use Markdown
 
