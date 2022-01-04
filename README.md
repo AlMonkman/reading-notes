@@ -5,7 +5,7 @@ Beginning notes for code fellows 102
 
 ## How to be successful in the code fellows program and beyond
 
-* The most important thing i have taken from the class so far is most likely the growth mindset. This is very important for me specifically. I am coming into this with not only zero experience in coding, but also having not been in a school environment for several years and no experience in online schooling at all. This will not be easy by any means. It will most likely be harder for me than some of the other students in my class. It's important not to think that these people are "better" at this than me. They simply have more time spent learning these things, where as this is just the beginning of my journey. 
+   The most important thing i have taken from the class so far is most likely the growth mindset. This is very important for me specifically. I am coming into this with not only zero experience in coding, but also having not been in a school environment for several years and no experience in online schooling at all. This will not be easy by any means. It will most likely be harder for me than some of the other students in my class. It's important not to think that these people are "better" at this than me. They simply have more time spent learning these things, where as this is just the beginning of my journey. 
 
 ## Learning how to use Markdown
 
@@ -25,6 +25,8 @@ Beginning notes for code fellows 102
 - Github translates Markdown into HTML, Which in turn becomes your own webpage.  
 - Keep Github Presentable! Github will be used in the future hiring process as a software developer. Keep everything on there very professional as it is public.  
 - A repository in Github is similar to a big folder. Think of it as your current project.  
+
+### https://github.com/AlMonkman
 
 
 
