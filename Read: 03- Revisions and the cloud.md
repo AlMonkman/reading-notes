@@ -19,4 +19,7 @@ Git works in three different stages.
 -**Modified**-File has been changed but not committed to the database  
 
 -**Staged**-Flagged a file’s changed version to be committed in the next snapshot  
+![GitDiagram](GitDiagram.png)  
+
+
 
