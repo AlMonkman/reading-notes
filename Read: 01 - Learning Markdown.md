@@ -1,6 +1,8 @@
 # Reading:01 
 
-## Basic Markdown Syntax, Markdown on Github
+## Basic Markdown Syntax, Markdown on Github  
+
+---
 
 -Create headings using #'s. The more Haskhtags(Octothorps) you use will decrease the size/importance of the heading.  
 -To create a numbered list simply put the desired number at the start of each new line. To create unordered lists use a -, *, or + symbol.  
