@@ -23,4 +23,8 @@
 
 # H.T.M.L. Hypertext Markup Language  
 
-HTML is a Markup language that defines the structure of your content. It consists of a series of elements which you use to *enclose or wrap* diferent parts of your content to make it look a certain way. 
+HTML is a Markup language that defines the structure of your content. It consists of a series of elements which you use to *enclose or wrap* diferent parts of your content to make it look a certain way.  
+
+![Basic HTML](HTML Diagram.png)  
+
+
