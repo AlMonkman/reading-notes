@@ -7,7 +7,7 @@ Hello! Welcome to my first Github repository. My name is Alan Monkman. I am curr
 ---
 
 1. [Growth Mindset/Intro to Markdown](GrowthMindset.md)  
-2. [Reading:01-Basic Markdown Syntax, Markdown on Github ](Read01-LearningMarkdown.md)  
-3. [Reading:02-The Coders Computer](Read02-Thecoderscomputer.md)  
-4. [Reading:03-Working With Git and Github](Read03-Revisionsandthecloud.md)  
-5. [Reading:04-Structure Web Pages With HTML](Read04-StructureWebPagesWithHTML.md) 
+2. [Reading:01-Basic Markdown Syntax, Markdown on Github ](LearningMarkdown.md)  
+3. [Reading:02-The Coders Computer](Thecoderscomputer.md)  
+4. [Reading:03-Working With Git and Github](Revisionsandthecloud.md)  
+5. [Reading:04-Structure Web Pages With HTML](StructureWebPagesWithHTML.md) 
