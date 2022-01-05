@@ -7,4 +7,6 @@ Hello! Welcome to my first Github repository. I've created this file so i can ea
 ---
 
 1. [Growth Mindset/Intro to Markdown](https://github.com/AlMonkman/reading-notes/blob/main/README.md)  
-2. 
+2. [Reading:01-Basic Markdown Syntax, Markdown on Github ](https://github.com/AlMonkman/reading-notes/blob/main/Read:%2001%20-%20Learning%20Markdown.md)  
+3. [Reading:02-The Coders Computer](https://github.com/AlMonkman/reading-notes/blob/main/Read:%2002%20The%20coders%20computer.md)  
+4. [Reading:03-Working With Git and Github](https://github.com/AlMonkman/reading-notes/blob/main/Read:%2003-%20Revisions%20and%20the%20cloud.md)  
