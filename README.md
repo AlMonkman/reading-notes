@@ -1,7 +1,3 @@
-# [Table Of Contents](TableOfContents.md)
-
-[Read:05](Read05-DesignwebpageswithCSS.md)
-
 
 ## Reading-notes
 Beginning notes for code fellows 102
