@@ -10,7 +10,7 @@
 -To quote place a > at the start of the line. For a block quote add at the front of the paragraph.  
 -To create a line break simply put a double space at the end of your previous sentence.  
 -Create a hyperlink by putting the title of your link inside []brackets and the link inside () parenthesis following the brackets. [Title](Url).  
--This is the same way to put an image on your page. [Title of image](url of image) if you want the image itself to show on your page you need to preceed the brackets with an !. It looks like this ![Title](Url).  
+-This is the same way to put an image on your page. [Title of image](url of image) if you want the image itself to show on your page you need to preceed the brackets with an !. It looks like this `![Title](Url)`.  
 -To denote a word or phrase as code, surround it with backticks. `Code`  
 -For a Horizontal rule place three or more *** asterisks, --- dashes, or ___ underscores.   
 -To display one of the characters used above, without turning it into code simply place a / backslash in front of it.  
