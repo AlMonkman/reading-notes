@@ -1,5 +1,5 @@
 # Intoduction  
-Hello! Welcome to my first Github repository. I've created this file so i can easily bounce between all the notes that i am taking in class 102 at code fellows. Click on any of the links below to go to that page of notes. Enjoy!  
+Hello! Welcome to my first Github repository. My name is Alan Monkman. I am currently 26 years old and live just North of Seattle Washington. I previously worked for USPS but decided it was time to get into a career path that i would truly enjoy. I've created this file so i can easily bounce between all the notes that i am taking in class 102 at code fellows. Click on any of the links below to go to that page of notes. Enjoy!  
 
 
 # Table Of Contents  
