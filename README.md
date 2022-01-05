@@ -1,4 +1,4 @@
-# [Table Of Contents](https://github.com/AlMonkman/reading-notes/blob/main/Table%20Of%20Contents.md)
+# [Table Of Contents](TableOfContents.md)
 
 
 ## Reading-notes
