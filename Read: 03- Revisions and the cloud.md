@@ -21,5 +21,15 @@ Git works in three different stages.
 -**Staged**-Flagged a file’s changed version to be committed in the next snapshot  
 ![GitDiagram](GitDiagram.png)  
 
+## Working with Git and Github
+
+---
+
+1. First step is to clone your repository from Github. To do this you will need to copy the code of said repository off of Github. Go into your Terminal and use the command "git clone (your repository URL)"  
+2. Next step is to make any changes you want to locally.  
+3. To update your work on the server you must next open your terminal back up. Input the command "git add ." This will add all of the changes you have made.  
+4. Next input git commit -m"". In between the quotes you want to write a short message describing what changes you made.  
+5. Finally input "git push main origin". This will update Github with the current work you have completed.
+
 
 
