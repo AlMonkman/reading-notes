@@ -61,7 +61,7 @@ If you have multiple styles affecting the same element certain styles will take 
 -Followed by external and internal style sheets  
 -And finally the browsers default  
 
-#Colors  
+# Colors  
 
 ---
 
