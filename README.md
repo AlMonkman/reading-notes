@@ -13,3 +13,4 @@ Hello! Welcome to my first Github repository. My name is Alan Monkman, I am curr
 5. [Reading:04-Structure Web Pages With HTML](StructureWebPagesWithHTML.md) 
 6. [Reading:05-Design Web Pages With CSS](DesignwebpageswithCSS.md)
 7. [Reading:06-Dynamic Web Pages With JavaScript](DynamicwebpageswithJavaScript.md)
+8. [Reading:07-Programming with JavaScript](ProgrammingwithJavaScript.md)
