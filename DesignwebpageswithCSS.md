@@ -56,4 +56,22 @@ An inline style brings it down even further and can be used for just a single el
 
 `<h1 style="color:blue;text-align:center;">This is a heading</h1>`  
 
-If you have multiple styles affecting the same element certain styles will take priority. 
+If you have multiple styles affecting the same element certain styles will take priority.  
+-Inline will have the highest priority  
+-Followed by external and internal style sheets  
+-And finally the browsers default  
+
+#Colors  
+
+---
+
+There are several different ways to add color to your site. You can simply type color as the property in your declaration. From there you can choose from a long list of available colors that CSS has to offer. Alternatively there are several different things you can do to pick a color.  
+ 
+ You may set your color with a...  
+ -RGB Value  {color: rgb(0,0,0);}  
+ -Hex Value {color: 92a8d1;}  
+ -RGBA Value {color: rgba(0,0,0,0);}  
+ -HSL Value {color: hsl(89,20%,60%);}  
+ -HSLA Value {color: hsla(89, 43%, 51%, 0.6);}  
+ 
+ Choose which ever way suits you the best as a developer.
