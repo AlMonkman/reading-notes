@@ -14,7 +14,7 @@ Beginning notes for code fellows 102
 4. Double space after your text in order to create a new line on the document. Or leave a blank line of text in between.   
 5. To create a bulleted list just use either a - or * symbol.    
 6. Quote text using the > symbol.  
-7. You can create a link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). Here is the link to the Basic formatting syntax for Markdown that i have been provided. [Basics of Markdown]{ https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#uploading-assets}.  
+7. You can create a link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). Here is the link to the Basic formatting syntax for Markdown that i have been provided. [Basics of Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#uploading-assets).  
 8. This is also the same way to add an image to your Markdown. Place an ! before the brackets to show the image, if you do not add the ! it will instead show the link to said image.  
 9. To add a downloaded image onto your Markdown you first need to download the file onto Github itself.  
 10. To add Emoji's use the colon symbol 👊. A list of emojis will appear and filter as you type in what you're looking for 🍌.  
