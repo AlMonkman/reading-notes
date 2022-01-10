@@ -1,11 +1,13 @@
 # Intoduction  
-Hello! Welcome to my first Github repository. My name is Alan Monkman, I am currently 26 years old and live just North of Seattle Washington. I previously worked for USPS but decided it was time to get into a career path that i would truly enjoy. I've created this website so I can easily bounce between all the notes that I am taking in class 102 at Code Fellows. Click on any of the links below to go to that page of notes. Enjoy!  
+Hello! Welcome to my first Github repository. My name is Alan Monkman, I am currently 26 years old and live just North of Seattle Washington. I previously worked for USPS but decided it was time to get into a career path that i would truly enjoy. I've created this website so I can easily bounce between all the notes that I am taking in course 102 and 201 at Code Fellows. Click on any of the links below to go to that page of notes. Enjoy!  
 
 
 # Table Of Contents  
 
 ---
 
+
+## Course 102  
 1. [Growth Mindset/Intro to Markdown](GrowthMindset.md)  
 2. [Reading:01-Basic Markdown Syntax, Markdown on Github ](LearningMarkdown.md)  
 3. [Reading:02-The Coders Computer](Thecoderscomputer.md)  
@@ -15,3 +17,22 @@ Hello! Welcome to my first Github repository. My name is Alan Monkman, I am curr
 7. [Reading:06-Dynamic Web Pages With JavaScript](DynamicwebpageswithJavaScript.md)
 8. [Reading:07-Programming with JavaScript](ProgrammingwithJavaScript.md)
 9. [Reading:08-Operators and Loops](OperatorsAndLoops.md)
+
+
+## Course 201  
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+
