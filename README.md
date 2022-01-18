@@ -25,5 +25,6 @@ Hello! Welcome to my first Github repository. My name is Alan Monkman, I am curr
 3. [Reading:03-HTML Lists, Control Flow with JS, and the CSS Box Model](ListsControlFlowAndBoxModel.md)  
 4. [Reading:04-HTML Links, JS Functions, and CSS Layout](HTMLLinksJSFunctionsCSSLayout.md)  
 5. [Reading:06-Problem domain, Objects, and the DOM](problemdomainobjectsandtheDOM.md)
+6. [Reading:07-HTML Tables, JS Constructor Funtions](HTMLTablesJSConstructorFunctions.md)
 
 
