@@ -27,6 +27,7 @@ Hello! Welcome to my first Github repository. My name is Alan Monkman, I am curr
 5. [Reading:05-HTML Images, CSS Color & Text](ImagesColorText.md)
 6. [Reading:06-Problem domain, Objects, and the DOM](problemdomainobjectsandtheDOM.md)
 7. [Reading:07-HTML Tables, JS Constructor Funtions](HTMLTablesJSConstructorFunctions.md)
-8. [Reading:08-More CSS Layout](CSSLayout.md)
+8. [Reading:08-More CSS Layout](CSSLayout.md)  
+9. [Reading:09-Forms and JS Events](FormsandEvents.md)
 
 
