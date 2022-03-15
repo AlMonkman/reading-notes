@@ -29,6 +29,6 @@ Hello! Welcome to my first Github repository. My name is Alan Monkman, I am curr
 7. [Reading:07-HTML Tables, JS Constructor Funtions](HTMLTablesJSConstructorFunctions.md)
 8. [Reading:08-More CSS Layout](CSSLayout.md)  
 9. [Reading:09-Forms and JS Events](FormsandEvents.md)  
-10.[Reading:10-JS Debugging](JSDebugging.md)  
+10. [Reading:10-JS Debugging](JSDebugging.md)  
 
 
