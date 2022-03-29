@@ -32,6 +32,8 @@ Hello! Welcome to my first Github repository. My name is Alan Monkman, I am curr
 10. [Reading:10-JS Debugging](JSDebugging.md)  
 11. [Reading:11-Audio, Video, Images](AudioVideoImages.md)
 12. [Reading:12-Chart.js, Canvas](ChartandCanvas.md)
-13. [Reading:13-Local Storage](LocalStorage.md)
+13. [Reading:13-Local Storage](LocalStorage.md)  
+14. [Reading;14a-]()  
+15. [Reading:14b-What Google Learned About Teams](Google.md)
 
 
