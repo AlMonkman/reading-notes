@@ -7,7 +7,7 @@ Hello! Welcome to my first Github repository. My name is Alan Monkman, I am curr
 ---
 
 
-## Course 102  
+## Course 102-Into to Software Development  
 1. [Growth Mindset/Intro to Markdown](GrowthMindset.md)  
 2. [Reading:01-Basic Markdown Syntax, Markdown on Github ](LearningMarkdown.md)  
 3. [Reading:02-The Coders Computer](Thecoderscomputer.md)  
@@ -19,7 +19,7 @@ Hello! Welcome to my first Github repository. My name is Alan Monkman, I am curr
 9. [Reading:08-Operators and Loops](OperatorsAndLoops.md)  
 
 
-## Course 201  
+## Course 201-Foundations of Software Development  
 1. [Reading:01-Introducroty HTML and JavaScript](IntroductoryHTMLandJavaScript.md)  
 2. [Reading:02-Basics of HTML, CSS & JS](BasicsOfHTMLCSSandJS.md)
 3. [Reading:03-HTML Lists, Control Flow with JS, and the CSS Box Model](ListsControlFlowAndBoxModel.md)  
@@ -34,6 +34,10 @@ Hello! Welcome to my first Github repository. My name is Alan Monkman, I am curr
 12. [Reading:12-Chart.js, Canvas](ChartandCanvas.md)
 13. [Reading:13-Local Storage](LocalStorage.md)  
 14. [Reading;14a-](CSSAnimations.md)  
-15. [Reading:14b-What Google Learned About Teams](Google.md)
+15. [Reading:14b-What Google Learned About Teams](Google.md)  
+
+
+## Course 301-Intermediate Software Development  
+1. []()
 
 
