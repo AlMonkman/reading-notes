@@ -2,6 +2,8 @@
 
 ---
 
+It seems that React is going to be an important part of our 301 journey. These basics will help us to start said journey. 
+
 ## Component-Based Architecture.  
 
 *1. What is a component?*  
