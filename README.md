@@ -38,6 +38,7 @@ Hello! Welcome to my first Github repository. My name is Alan Monkman, I am curr
 
 
 ## Course 301-Intermediate Software Development  
-1. []()
+1. [Reading:01-Introduction to React and Components](React.md)
+2. []()
 
 
