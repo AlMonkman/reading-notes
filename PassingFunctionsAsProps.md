@@ -65,4 +65,5 @@ You can pass the method the same way you would as any other prop.
 You then need to call said method inside of the child component and pass in a *name*.  
 
 
-
+## Things I want to know more about  
+- I am curious to see how often I will be using the spread operator. It seems incredibley useful.
