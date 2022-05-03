@@ -41,6 +41,7 @@ Hello! Welcome to my first Github repository. My name is Alan Monkman, I am curr
 1. [Reading:01-Introduction to React and Components](React.md)
 2. [Reading:02-State And Props](StateAndProps.md)
 3. [Reading:03-Passing Functions as Props](PassingFunctionsAsProps.md)  
-4. []()
+4. [Reading:04-React and Forms](ReactAndForms.md)  
+5. []()
 
 
